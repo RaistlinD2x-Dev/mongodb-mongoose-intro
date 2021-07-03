@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-mongoose-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaistlinD2x-Dev/mongodb-mongoose-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaistlinD2x-Dev/mongodb-mongoose-intro/issues"
+  },
+  "homepage": "https://github.com/RaistlinD2x-Dev/mongodb-mongoose-intro#readme",
+  "dependencies": {
+    "mocha": "^9.0.2",
+    "mongoose": "^5.13.1",
+    "nodemon": "^2.0.9"
+  }
+}
