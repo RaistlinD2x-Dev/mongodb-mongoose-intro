@@ -9,6 +9,7 @@ describe('Creating records', () => {
       // Has Joe been saved successfully?
       assert(!joe.isNew); // isNew == false after db save
       done();
+      //test
     });
   });
 });
