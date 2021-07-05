@@ -20,9 +20,7 @@ describe('Updating records', () => {
   };
 
   it('instance type using set n save', (done) => {
-    console.log(joe);
     joe.set('name', 'Alex');
-    console.log(joe);
     assertName(joe.save(), done);
   });
 
